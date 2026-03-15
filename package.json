@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/LunaTechNW/generate-wp-plugin-manifest#readme",
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.11.0",
     "@actions/github": "^6.0.0"
   }
 }
